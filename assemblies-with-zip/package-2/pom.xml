@@ -9,6 +9,7 @@
   </parent>
 
   <artifactId>package-two</artifactId>
+  <packaging>pom</packaging>
 
   <name>Packaging Test : Package-2</name>
 

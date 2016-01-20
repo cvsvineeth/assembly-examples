@@ -16,11 +16,13 @@
       <groupId>${project.groupId}</groupId>
       <artifactId>package-one</artifactId>
       <version>${project.version}</version>
+      <packaging>pom</packaging>
     </dependency>
     <dependency>
       <groupId>${project.groupId}</groupId>
       <artifactId>package-two</artifactId>
       <version>${project.version}</version>
+      <packaging>pom</packaging>
     </dependency>
   </dependencies>
 

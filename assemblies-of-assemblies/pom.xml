@@ -6,7 +6,7 @@
     <groupId>com.soebes.smpp</groupId>
     <artifactId>smpp</artifactId>
     <version>0.6.3</version>
-  </parent>
+  </parent>mdlsacmlscm
 
 
   <groupId>org.test.parent</groupId>

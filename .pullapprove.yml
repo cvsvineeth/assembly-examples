@@ -3,12 +3,7 @@ approve_regex: ^Approved
 reject_regex: ^Rejected
 reset_on_push: false
 reviewers:
-  members:
-  - cvsvineeth
-  name: default
-  required: 1
-
-  -
+-
 name: review-by-branches
   required: 1
   members:

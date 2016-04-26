@@ -7,3 +7,13 @@ reviewers:
   - cvsvineeth
   name: default
   required: 1
+
+  -
+     name: review-by-branches
+        required: 1
+        members:
+            - cvsvineeth
+            
+        conditions:
+            branches:
+                - int  # review if merging to staging
